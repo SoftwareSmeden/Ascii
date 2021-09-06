@@ -5,7 +5,7 @@ Dette program er skrevet til at kunne fremvise Ascriis udfra et givent input fra
 
 
 
-<h2>Billede 1:</h2> 
+<h2>Billede 1:</h2>        
 
 ![image](https://user-images.githubusercontent.com/89922905/132210422-00e98fbc-7c5f-453a-8daf-a1bfc0abc12d.png)
 
