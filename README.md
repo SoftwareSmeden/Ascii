@@ -16,6 +16,11 @@ Dette program er skrevet til at kunne fremvise Ascriis udfra et givent input fra
 
 
 
+<h2>Hvad har vi kigget og kodet i dag:</h2>
+<p>Vi har snakket om Variabler, If statements, Datatyper. 
+<p>Vi har lært at bruge SCANNER funktion og få et program til at fremvise Asciis.
+<p>Samt gjort brug af LOOP funktion.   
+
 
 
 
